@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664431967 source:c:\users\asus\desktop\dasturlash.uz\first_program\main.cpp
+	<iostream>
+	<windows.h>
+
